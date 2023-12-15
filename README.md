@@ -1,0 +1,1 @@
+Revolutionizing online shopping with a sleek eCommerce site. Elevate your experience through HTML, CSS, React-Bootstrap, Material UI, and Redux – delivering style, security, and seamless functionality.
